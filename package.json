@@ -1,0 +1,24 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebos75/parcel-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Tracz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebos75/parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Sebos75/parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
